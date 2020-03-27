@@ -1,5 +1,5 @@
 {{subst:AFC submission/draftnew}}<!-- Important, do not remove this line before article has been created. -->
-=Summary=
+==Summary==
 Thomas Edward Hyland is an English musician, song-writer and performer most widely known as the lead-guitarist in [[The Electric Swing Circus|Electric Swing Circus]].  
 
 ==Early life==
