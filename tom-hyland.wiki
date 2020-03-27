@@ -1,0 +1,15 @@
+{{subst:AFC submission/draftnew}}<!-- Important, do not remove this line before article has been created. -->
+=Summary=
+Thomas Edward Hyland is an English musician, song-writer and performer most widely known as the lead-guitarist in [[The Electric Swing Circus|Electric Swing Circus]].  
+
+==Early life==
+===Family===
+Hyland was born in [[Devon]], [[United Kingdom]], in 1984, to parents Michael Hyland and Sandra Hyland.  
+
+Hyland's family moved to [[Denbury]], In Devon, during his childhood. He has an elder sister Katie and young sister and brother Alice and Edward.
+
+
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
